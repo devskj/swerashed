@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Rashed</h1>  
-<h4 align="center">🚀Full Stack Developer | Building dynamic, user-friendly web solutions that drive growth. Let's connect and create something impactful!</h4>
+<h1 align="center">Hi 👋, I' Shahajun </h1>  
+<h4 align="center">🚀Full Stack Developer & Elevate your digital game with Top Notch Agency St_DATA.| Building dynamic, user-friendly web solutions that drive growth. Let's connect and create something impactful!</h4>
 
 🌱 I’m currently learning GSAP  
 💬 Ask me about React, Next.js, Express, MongoDB, and PostgreSQL  
-📫 Email me: [![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:talk.rashed@gmail.com)  
+📫 Email me: [![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail&logoColor=white)](mailto:shahajunkhanjoy@gmail.com)  
 👨‍💻 View all projects: [🌐 Portfolio](https://rashed-portfolio.vercel.app)  
 
 
 
 <div> 
  <a href="https://twitter.com/swerashed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-<a href="https://www.linkedin.com/in/swerashed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://github.com/swerashed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href="mailto:talk.rashed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href="https://youtube.com/@swerashed"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/shahajun-khan-joy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://github.com/devskj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+<a href="mailto:shahajunkhanjoy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.youtube.com/@shahajunkhanjoy"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
 # 💻 Tech Stack:
